@@ -1,0 +1,1 @@
+/home/basilmt/catkin_ws/devel/.private/vitarana_drone/lib/python2.7/dist-packages/vitarana_drone/cfg/__init__.py

@@ -1,0 +1,1 @@
+/home/basilmt/catkin_ws/devel/.private/vitarana_drone/share/roseus/ros/vitarana_drone/srv/Gripper.l

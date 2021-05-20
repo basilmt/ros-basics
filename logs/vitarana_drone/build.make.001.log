@@ -1,0 +1,16 @@
+[  0%] Built target _vitarana_drone_generate_messages_check_deps_edrone_cmd
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target _vitarana_drone_generate_messages_check_deps_prop_speed
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_nodejs
+[ 11%] Built target vitarana_drone_gencfg
+[ 33%] Built target vitarana_drone_generate_messages_cpp
+[ 38%] Built target vitarana_drone_generate_messages_eus
+[ 55%] Built target vitarana_drone_generate_messages_py
+[ 66%] Built target vitarana_drone_generate_messages_lisp
+[ 77%] Built target vitarana_drone_generate_messages_nodejs
+[ 88%] Built target gazebo_ros_gps
+[ 88%] Built target vitarana_drone_generate_messages
+[100%] Built target gazebo_edrone_propulsion
